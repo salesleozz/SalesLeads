@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block title %}Sales Leads - Página Inicial{% endblock %}
+
+{% block content %}
+<div class="jumbotron text-center">
+    <h1 class="display-4">Bem Vindo ao Sales Leads</h1>
+    <p class="lead">Escolha um dos Raspadores e comece a gerar Leads!</p>
+    <hr class="my-4">
+    <p class="lead">
+        <a class="btn btn-primary btn-lg" href="{{ url_for('scraper') }}" role="button">Google Maps</a>
+        <a class="btn btn-primary btn-lg" href="{{ url_for('instagram') }}" role="button">Instagram</a>
+        <a class="btn btn-primary btn-lg" href="{{ url_for('marketplace') }}" role="button">MarketPlaces</a>
+    </p>
+</div>
+{% endblock %}

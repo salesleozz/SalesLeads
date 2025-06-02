@@ -1,0 +1,51 @@
+/* Estilo para a barra lateral */
+.sidebar {
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 220px;
+    background-color: black;
+    padding-top: 20px;
+}
+
+.sidebar a {
+    display: block;
+    color: white;
+    padding: 17px;
+    text-decoration: none;
+    font-size: 18px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.sidebar a:hover {
+    color: black;
+    background-color: white;
+}
+
+.content {
+    margin-top: 240px;
+    margin-left: 240px; /* Ajuste o valor conforme necessário */
+    padding: 20px;
+}
+
+img{
+    width: 250;
+    height: 88px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.alert-container {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000;
+}
+.alert {
+    text-align: center;
+}

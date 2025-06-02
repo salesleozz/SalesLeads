@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block title %}Raspador de Marketplaces{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <h1 class="mb-4 text-center">Marketplaces</h1>
+        <form method="POST" action="{{ url_for('marketplace') }}">
+            <div class="mb-3">
+                <label for="pesquisa" class="form-label">qual produto voce deseja buscar?</label>
+                <input type="text" class="form-control" id="pesquisa" name="pesquisa" placeholder="escreva o nome do produto" required>
+                <br><br>
+                <label for="place" class="form-label">Qual Marketplace?</label>
+                <select id="place" name="place" class="form-control" placeholder="Escreva qual marketplace deseja buscar" required>
+                <option value="mercadolivre">Mercado Livre</option>
+                <option value="magalu">Magazine Luiza</option>
+                <option value="amazon">Amazon</option>
+            </select>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Comece a raspar</button>
+        </form>
+    </div>
+</div>
+{% endblock %}
