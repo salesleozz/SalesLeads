@@ -1,4 +1,4 @@
-##🛠️ Descrição do Projeto — SalesLeads
+🛠️ Descrição do Projeto — SalesLeads
 
 Este projeto é uma ferramenta desenvolvida em Python com foco na automação da prospecção de clientes. Ela realiza a captura de leads qualificados a partir de múltiplas plataformas, incluindo Instagram, Google Maps e marketplaces.
 
@@ -16,7 +16,7 @@ Link de redes sociais e websites
 
 Outras informações públicas disponíveis nas plataformas
 
-##🚀 Funcionalidades:
+🚀 Funcionalidades:
 
 🔍 Busca automatizada por palavras-chave, nicho ou localização
 
@@ -30,7 +30,7 @@ Outras informações públicas disponíveis nas plataformas
 
 🕒 Automação escalável e otimizada, com controle de limites e delays para evitar bloqueios
 
-##🧠 Tecnologias utilizadas:
+🧠 Tecnologias utilizadas:
 
 Python
 
