@@ -14,10 +14,15 @@ Outras informações públicas disponíveis nas plataformas
 ## 🚀 Funcionalidades:
 
 🔍 Busca automatizada por palavras-chave, nicho ou localização
+
 📥 Coleta de dados de perfis comerciais no Instagram
+
 🗺️ Extração de dados de empresas listadas no Google Maps
+
 🛒 Captura de informações de vendedores em marketplaces
+
 📊 Geração de relatórios organizados em CSV, Excel ou JSON
+
 🕒 Automação escalável e otimizada, com controle de limites e delays para evitar bloqueios
 
 ## 🧠 Tecnologias utilizadas:
