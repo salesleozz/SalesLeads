@@ -38,6 +38,7 @@ Armazenamento de dados local ou em nuvem (opcional)
 ## 🎯 Objetivo:
 Ajudar profissionais de marketing, agências, vendedores e empresas a ampliarem sua base de contatos, otimizando a geração de leads e acelerando processos de vendas e prospecção comercial.
 
+--
 
 ## 🛠️ Project Description — SalesLeads
 
