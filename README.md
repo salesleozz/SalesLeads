@@ -19,7 +19,8 @@ Outras informações públicas disponíveis nas plataformas
 🛒 Captura de informações de vendedores em marketplaces
 📊 Geração de relatórios organizados em CSV, Excel ou JSON
 🕒 Automação escalável e otimizada, com controle de limites e delays para evitar bloqueios
-🧠 Tecnologias utilizadas:
+
+## 🧠 Tecnologias utilizadas:
 
 Python
 
@@ -29,5 +30,5 @@ Integração com APIs quando disponível
 
 Armazenamento de dados local ou em nuvem (opcional)
 
-🎯 Objetivo:
+## 🎯 Objetivo:
 Ajudar profissionais de marketing, agências, vendedores e empresas a ampliarem sua base de contatos, otimizando a geração de leads e acelerando processos de vendas e prospecção comercial.
